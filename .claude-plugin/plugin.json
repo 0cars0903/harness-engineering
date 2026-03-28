@@ -1,0 +1,11 @@
+{
+  "name": "harness-engineering",
+  "version": "0.1.0",
+  "description": "하네스 엔지니어링(HE) 일반화 메타 프레임워크. 문제를 던지면 업무 유형을 자동 분류하고, 이해관계자 분석 → CPS → 5단계 파이프라인을 자동 설계한다. 코딩, 글쓰기, 기획/분석, 리서치 등 모든 지식 노동에 적용 가능.",
+  "author": {
+    "name": "Kuma"
+  },
+  "keywords": ["harness-engineering", "pipeline", "meta-framework", "lint", "quality"],
+  "hooks": "./hooks/hooks.json",
+  "mcpServers": "./.mcp.json"
+}
